@@ -17,9 +17,9 @@ Nested IF logic for age segmentation:
 
 **Key Business Insights**
 
-· Demographics & Income: Customers with higher average income are significantly more likely to purchase a bike across all regions.
-· Age Bracket Target: Middle-aged adults (31–54) represent the vast majority of total bike purchases compared to young or elderly age groups.
-· Commute Impact: Customers living within a 0–1 mile commute demonstrate the highest purchase conversion rates, declining rapidly as commute distance exceeds 5 miles.
+Demographics & Income: Customers with higher average income are significantly more likely to purchase a bike across all regions.
+Age Bracket Target: Middle-aged adults (31–54) represent the vast majority of total bike purchases compared to young or elderly age groups.
+Commute Impact: Customers living within a 0–1 mile commute demonstrate the highest purchase conversion rates, declining rapidly as commute distance exceeds 5 miles.
 
 **Dashboard Features & Layout**
 
@@ -37,8 +37,11 @@ Filter seamlessly across Marital Status, Region, and Education.
 
 **Repository Structure**
 
-· Bike-Sales-Dashboard.xlsx — Full Excel workbook containing raw data, cleaned working sheet, pivot tables, and interactive dashboard.
+Bike-Sales-Dashboard.xlsx — Full Excel workbook containing raw data, cleaned working sheet, pivot tables, and interactive dashboard.
 
-· dashboard.png — High-resolution preview screenshot of the final dashboard.
+## Dashboard Preview
+  Dashboard.png.
+
+
 
 
